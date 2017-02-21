@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/MeghanFrisco/pen/dXJpQb.
-
- 
+Human Calculator is a promotional event for Aparoksha 2K17.This is basically a quiz (something like brain teasers). You can visit the site and try it out....
