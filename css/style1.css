@@ -47,11 +47,7 @@ header h1 {
 font-size : 300%;
 }
 }
-@media (min-width:1000px) {
-header h1 {
-font-size : 600%;
-}
-}
+
 header h2 {
 font-family : 'Denk One', sans-serif;
 text-align : center;
