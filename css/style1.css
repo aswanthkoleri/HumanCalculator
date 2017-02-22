@@ -35,6 +35,7 @@ header h1 {
 font-family : 'Denk One', sans-serif;
 text-align : center;
 color : #558de8;
+  font-size : 250%;
 }
 @media (min-width:0) {
 header h1 {
