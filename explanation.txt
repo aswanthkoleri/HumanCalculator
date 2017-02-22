@@ -1,0 +1,58 @@
+1   :   96
+
+     12 months in a year, 52 weeks in a year, and 365 days in a year
+     Let m be my age in years. If s is my son's age in years, then my son is 52s weeks old. If g is my grandson's age in years, then my grandson is 365g days old. Thus, 
+
+     365g = 52s. 
+
+     Since my grandson is 12g months old, 
+
+     12g = m. 
+
+     Since my grandson, my son and I together are 160 years, 
+
+     g + s + m = 160. 
+
+     The above system of 3 equations in 3 unknowns (g, s and m) can be solved as follows. 
+
+     m / 12 + 365 m / (52 × 12) + m = 160 or 
+
+     52 m + 365 m + 624 m = 624 × 160 or 
+
+     m = 624 × 160 / 1041 = 96. 
+
+     So, I am 96 years old." 
+     
+2   : 90
+      Obtain the equations and on solving we get 90
+      
+3   : 18
+      18 = 2 (1 + 8)
+      
+4   : 32
+      Final =2           - 1
+      semifinal=4        - 2
+      quarterfinal=8     - 4
+      prequarterfinal=16 - 8
+      prelims=32         - 16
+      
+5   : 225
+     All the rectangles on the board can be identified by connecting: 
+    2 points of the 6 in the top edge (to form the length of the rectangle) and 
+    2 points of the 6 in the left edge (to form the breadth of the rectangle). 
+
+    To gain a better understanding, consider the 8 × 8 chess board (see animation above). 
+    Note that there are 4 possibilities for the lengths of the rectangles to be 5 units. 
+
+  
+      Length of rectangle	Number of Possibilities
+               5 units	1
+               4 units	2
+               3 units	3
+               ...	...
+               1 unit	5
+    So, number of possibilities for different lengths of rectangles = 1 + 2 + 3 + ... + 5 = 15. 
+    Similarly, number of possibilities for different breadths of rectangles = 1 + 2 + 3 + ... + 5 = 15. 
+    Hence, number of rectangles = 15 × 15 = 225. 
+
+     ThankYou!
