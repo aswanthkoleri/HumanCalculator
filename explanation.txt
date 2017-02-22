@@ -1,7 +1,7 @@
 1   :   96
 
      12 months in a year, 52 weeks in a year, and 365 days in a year
-     Let m be my age in years. If s is my son's age in years, then my son is 52s weeks old. If g is my grandson's age in years, then my grandson is 365g days old. Thus, 
+     Let m be my age in years. If s is my son's age in years, then my son is 52s weeks old. If g is my grandson's age in          years, then my grandson is 365g days old. Thus, 
 
      365g = 52s. 
 
@@ -37,11 +37,7 @@
       prelims=32         - 16
       
 5   : 225
-     All the rectangles on the board can be identified by connecting: 
-    2 points of the 6 in the top edge (to form the length of the rectangle) and 
-    2 points of the 6 in the left edge (to form the breadth of the rectangle). 
-
-    To gain a better understanding, consider the 8 × 8 chess board (see animation above). 
+   
     Note that there are 4 possibilities for the lengths of the rectangles to be 5 units. 
 
   
