@@ -43,7 +43,7 @@ font-size : 250%;
 }
 @media (min-width:640px) {
 header h1 {
-font-size : 500%;
+font-size : 300%;
 }
 }
 @media (min-width:1000px) {
